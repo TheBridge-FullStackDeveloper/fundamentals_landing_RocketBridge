@@ -1,53 +1,35 @@
-![logotipo RocketBridge](./assets/logo.png)
+# Proyecto Landing RocketBridge 🚀
 
-# EJERCICIO 🚀 Landing RocketBridge 🌉
+¡Bienvenidos a la prueba para demostrar todo lo que sabes 🤓 de HTML, CSS y JS Fundamentals!
 
-¡Bienvenidos a RocketBridge, vuestra Landing Page para practicar HTML y CSS!
+Enocntraréis dos archivos con extensión .md con las instrucciones de los dos bloques principales: HTML y CSS y Javascript.
 
-El ejercicio consiste en replicar el diseño de una imagen de referencia `Landing-Rocket.jpg`. Deberás utilizar HTML, CSS y aplicar media queries para adaptar el diseño a diferentes tamaños de pantalla. Esta es la referencia de versión mobile de este diseño: `Landing-Rocket-Mobile.jpg`.
+1️⃣ Bloque HTML y CSS >>> `ejercicio_html_css.md`
 
-## 🗒️ Instrucciones
+2️⃣ Bloque Javascript >>> `ejercicio_js.md`
 
-1. Crea el archivo `index.html` y una carpeta `/css` con la hoja de estilo dentro `style.css` en VSCode. Recurda vincular el CSS y el HTML. El archivo `index.html` será el punto de inicio para tu proyecto.
+## 📄 Instrucciones
 
-2. Crea el código necesario para replicar el diseño de la imagen de referencia proporcionada en la carpeta `assets`. Asegúrate de que el diseño sea fiel a la imagen, incluyendo la estructura del sitio, los colores y las fuentes.
+1. Clona este repositorio en tu entorno de desarrollo:
 
-3. Las imágenes e iconos necesarios los encontrarás en la carpeta `img`.
-    - Usa la imagen `cursor.png` para que cambie el icono del cursor por el del cohete cuando pases sobre un enlace.
-
-4. Las Fuentes usadas las podéis encontrar en GoogleFonts. Son las siguientes: 
-
-    - Orbitron
-    - Roboto
-
-4. Encontraréis instrucciones sobre colores y estilos extra en esta imagen 👉🏼 `instrucciones-extra.jpg` en la carpeta de `assets`. 
-
-5. Asegúrate de que el diseño sea responsive 👉🏼 ver en `assets` la versión mobile `Landing-Rocket-Mobile.jpg`
-
-
-6. Cuando hayas completado el ejercicio, haz un `add .`, un `commit` y un `push` de tus cambios al repositorio.
    ```
-   git add .
-   git commit -m "mensaje"
-   git push
+   git clone (url del repo del ejercicio)
    ```
 
+2. Crea un repositorio en tu cuenta de GitHub para guardar este ejercicio.
 
-## 📷 Imagen de Referencia
+3. Recuerda apuntar el proyecto clonado a ese nuevo repositorio creado:
 
-A continuación, puedes ver la imagen de referencia que debes replicar en tu diseño:
+   ```
+   git remote set-url origin (url del repo creado en tu cuenta)
+   ```
 
-![Imagen de Referencia](./assets/Landing-Rocket.jpg)
+   Puedes comprobar si se ha realizado bien el cambio con este otro comando:
 
-## Imagen de Referencia Versión Mobile
+   ```
+   git remote -v
+   ```
 
-A continuación, puedes ver la imagen de referencia que debes replicar en tu diseño responsive:
+4. Una vez hecho esto puedes ir a cada archivo de ejercicios de cada bloque.
 
-![Imagen de Referencia Mobile](./assets/Landing-Rocket-Mobile.jpg)
-
-## 📌 Recursos Adicionales
-
-Puedes consultar la documentación de HTML y CSS para obtener ayuda adicional:
-
-- [HTML MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/HTML)
-- [CSS MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/CSS)
+5. IMPORTANTE‼️ Al terminar la prueba entera, envía la URL del respositorio con el ejercicio en el campus con el mensaje `Ejercicio Terminado : Nombre Apellido`.
